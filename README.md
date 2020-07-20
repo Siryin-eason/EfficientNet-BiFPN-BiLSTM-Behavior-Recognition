@@ -1,13 +1,19 @@
 #  EfficientNet-BiFPN-BiLSTM (Behavior recognition)
+
  An efficient and multi-scale feature fusion behavior recognition algorithm
-Environment£º
+Environment:
 python>=3.6
 pytorch>=1.2
 The overall frame diagram is as follows:
-https://github.com/Siryin-eason/EfficientNet-BiFPN-BiLSTM--Behavior-recognition/blob/master/img/main.png
-Datasets
+
+https://github.com/Siryin-eason/EfficientNet-BiFPN-BiLSTM-Behavior-Recognition/blob/master/img/main.png
+
+Datasets:
+
 Following the format of UCF101 action recognition.
-Run steps
+
+Run steps:
+
 1. Modify the "dict_data" of readpkl.py to your own category to generate your own label.pkl for training.
 2. Run train.py, remember to modify the data set address.
 3. During operation, all loss npy files will be saved for visualization, and all models will be saved under weights.
