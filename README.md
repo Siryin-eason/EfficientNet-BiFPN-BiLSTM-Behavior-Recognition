@@ -10,7 +10,8 @@ pytorch>=1.2
 
 The overall frame diagram is as follows:
 
-![](https://github.com/Siryin-eason/EfficientNet-BiFPN-BiLSTM-Behavior-Recognition/blob/master/img/main.png)
+![Image text]
+(https://github.com/Siryin-eason/EfficientNet-BiFPN-BiLSTM-Behavior-Recognition/blob/master/img/main.png)
 
 Datasets:
 
