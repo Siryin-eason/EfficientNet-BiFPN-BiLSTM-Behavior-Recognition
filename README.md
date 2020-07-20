@@ -1,9 +1,13 @@
 #  EfficientNet-BiFPN-BiLSTM (Behavior recognition)
 
  An efficient and multi-scale feature fusion behavior recognition algorithm
+
 Environment:
+
 python>=3.6
+
 pytorch>=1.2
+
 The overall frame diagram is as follows:
 
 https://github.com/Siryin-eason/EfficientNet-BiFPN-BiLSTM-Behavior-Recognition/blob/master/img/main.png
